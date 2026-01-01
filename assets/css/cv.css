@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base{
+    *{
+        box-sizing: border-box;
+        font-family: Arial Nova, Arial, sans-serif;
+        color: var(--color-gray-800);
+    }
+}
