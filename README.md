@@ -2,6 +2,8 @@
 
 A simple and customizable **CV template built with HTML and CSS**, designed for easy editing and PDF generation.
 
+![cv-template](assets/img/cv-template.png)
+
 ---
 
 ## Getting Started
@@ -64,4 +66,3 @@ This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this project for personal or commercial purposes.
 
 See the [LICENSE](LICENSE) file for more details.
-
